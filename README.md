@@ -1,6 +1,6 @@
 <h1 align='center'> Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <p align='center'>
-  I'm <a href="https://github.com/JxVtrl">João</a>.
+  I'm <a href="https://github.com/JxVtrl">João</a> 👨‍💻.
 </p>
 <br/>
 🏠 I’m currently living at Rio de Janeiro City, Brazil. <br/>
@@ -36,3 +36,4 @@
 <a href="https://t.me/jxvtrl">
   <img align="left" alt="Telegram" width="22px" src="assets/telegram.svg" />
 </a>
+
