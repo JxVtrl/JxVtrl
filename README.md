@@ -10,7 +10,7 @@
   🏠 living at Rio de Janeiro City, Brazil. <br/>
   👨‍💻 learning to become a Full-stack Developer.<br/>
   🔭 working on my evolution in the area.<br/>
-  🎓 a student at the Uiversity of State of Rio de Janeiro.<br/>
+  🎓 a student of the Uiversity of State of Rio de Janeiro.<br/>
   🌱 fluent in English and Portuguese.<br/>
   ⚡ Be Awesome!<br/>
 </p>
