@@ -36,8 +36,6 @@
 &nbsp;
   <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
 &nbsp;
-  <img src="https://aleen42.github.io/badges/src/photoshop.svg" alt="PS" title="ps" height="100%" />
-&nbsp;
 <br/>
 <h2>💻  My Setup<h2/>
   <img src="https://img.shields.io/badge/Intel-Core_i7_6th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="intel" title="intel" height="100%" />
