@@ -46,9 +46,6 @@
 &nbsp;
   
 <h2>📫 Other ways to reach me...</h2>
-<a href="https://open.spotify.com/user/x94st9yoor1c36agz5sxzhosb?si=b005ac53cc1a446d">
-  <img align="left" alt="Spotify" height="100%" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
-</a>
 <a href="https://api.whatsapp.com/send?phone=5521966767962">
   <img align="left" alt="Whatsapp" height="100%" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
