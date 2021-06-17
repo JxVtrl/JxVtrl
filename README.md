@@ -42,7 +42,7 @@
 &nbsp;
   <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="intel" title="intel" height="100%" />
 &nbsp;
-  
+<br/>
 <h2>📫 Other ways to reach me...</h2>
 <a href="https://api.whatsapp.com/send?phone=5521966767962">
   <img align="left" alt="Whatsapp" height="100%" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -63,7 +63,7 @@
   <img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="100%" />
 </a>
 <br/>
-  
+<br/>  
 <br/>
 <h2>📈  My stats</h2>
 <p style="margin: 0px auto; width:auto; text-align: center;">
