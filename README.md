@@ -62,7 +62,6 @@
 <a href="https://twitter.com/jxvtrl">
   <img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="100%" />
 </a>
-<br/>
 <br/>  
 <br/>
 <h2>📈  My stats</h2>
