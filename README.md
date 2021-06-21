@@ -26,7 +26,7 @@
 &nbsp;
   <img src="https://img.shields.io/badge/github-1f425f?style=for-the-badge&logo=github&logoColor=white" alt="github" title="github" height="25" />
 &nbsp;
-  <img src="https://img.shields.io/badge/Python-3674A5?style=for-the-badge&logo=python&logoColor=white" alt="python" title="python" height="25" />
+  <img src="https://img.shields.io/badge/Python-C1282D?style=for-the-badge&logo=python&logoColor=white" alt="python" title="python" height="25" />
 &nbsp;
   <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" alt="lua" title="lua" height="25" />
 &nbsp;
