@@ -22,20 +22,34 @@
 <h2>🛠  Technologies and tools<h2/>
   <img src="https://img.shields.io/badge/Made%20with-VsCode-1f425f.svg" alt="Visual Studio Code" title="Visual Studio Code" height="100%" />
 &nbsp;
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" title="python" height="25" />
+  <img src="https://img.shields.io/badge/git-282C34?style=for-the-badge&logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
 &nbsp;
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="lua" title="lua" height="25" />
+  <img src="https://img.shields.io/badge/github-1f425f?style=for-the-badge&logo=github&logoColor=white" alt="github" title="github" height="25" />
 &nbsp;
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c logo" title="c" height="25" />
+  <img src="https://img.shields.io/badge/Python-3674A5?style=for-the-badge&logo=python&logoColor=white" alt="python" title="python" height="25" />
+&nbsp;
+  <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" alt="lua" title="lua" height="25" />
+&nbsp;
+  <img src="https://img.shields.io/badge/C-035697?style=for-the-badge&logo=c&logoColor=white" alt="c logo" title="c" height="25" />
 &nbsp;
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JS" height:"100%" />
 &nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5" height="25" />
+  <img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5" height="25" />
 &nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" />
+  <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" />
 &nbsp;
-  <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
+  
+<br/>
+<h2>🧠 Next steps of my knowledge<h2/>
+  <img src="https://img.shields.io/badge/php-7377AD?style=for-the-badge&logo=php&logoColor=white" alt="boot" title="boot" height="25" />
 &nbsp;
+  <img src="https://img.shields.io/badge/Node.js-75AC5F?style=for-the-badge&logo=node.js&logoColor=white" alt="node" title="node" height="25" />
+&nbsp;
+  <img src="https://img.shields.io/badge/Vue.js-32475B?style=for-the-badge&logo=vue.js&logoColor=white" alt="vue" title="vue" height="25" />
+&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-533B78?style=for-the-badge&logo=bootstrap&logoColor=white" alt="boot" title="boot" height="25" />
+&nbsp;
+  
 <br/>
 <h2>💻  My Setup<h2/>
   <img src="https://img.shields.io/badge/Intel-Core_i7_6th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="intel" title="intel" height="100%" />
