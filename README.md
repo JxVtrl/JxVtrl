@@ -71,7 +71,7 @@
   <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="intel" title="intel" height="25" />
 &nbsp;
 <br/>
-<h2>📫 Other ways to reach me...</h2>
+<h2>📫 Other ways to reach me...</h2>                                                                                                                                          
 <a href="https://api.whatsapp.com/send?phone=5521966767962">
   <img align="left" alt="Whatsapp" height="25" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
@@ -80,8 +80,7 @@
 </a>
 <a href="https://t.me/jxvtrl">
   <img align="left" alt="Telegram" height="25" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>                                                                                                                                                   
-</br>
+</a>
 <a href="https://www.linkedin.com/in/joão-vinicius-vitral-9b25221b7/">
   <img align="left" alt="LinkedIN" height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -90,7 +89,7 @@
 </a>
 <a href="https://twitter.com/jxvtrl">
   <img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="25" />
-</a>
+</a>                                                                                                                                               
 <br/>  
 <br/>
 <h2>📈  My stats</h2>
