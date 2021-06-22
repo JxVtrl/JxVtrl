@@ -80,7 +80,8 @@
 </a>
 <a href="https://t.me/jxvtrl">
   <img align="left" alt="Telegram" height="25" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
+</a>                                                                                                                                                   
+</br>
 <a href="https://www.linkedin.com/in/joão-vinicius-vitral-9b25221b7/">
   <img align="left" alt="LinkedIN" height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
