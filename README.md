@@ -40,14 +40,30 @@
 &nbsp;
   
 <br/>
-<h2>🧠 Next steps of my knowledge<h2/>
+<h2>🧠 Next steps of knowledge<h2/>
   <img src="https://img.shields.io/badge/php-7377AD?style=for-the-badge&logo=php&logoColor=white" alt="boot" title="boot" height="25" />
 &nbsp;
-  <img src="https://img.shields.io/badge/Node.js-75AC5F?style=for-the-badge&logo=node.js&logoColor=white" alt="node" title="node" height="25" />
+  <img src="https://img.shields.io/badge/Node JS-8cbf3d?style=for-the-badge&logo=node.js&logoColor=303030" alt="node" title="node" height="25" />
 &nbsp;
-  <img src="https://img.shields.io/badge/Vue.js-32475B?style=for-the-badge&logo=vue.js&logoColor=white" alt="vue" title="vue" height="25" />
+  <img src="https://img.shields.io/badge/Vue JS-272f37?style=for-the-badge&logo=vue.js&logoColor=4bb483" alt="vue" title="vue" height="25" />
+&nbsp;
+  <img src="https://img.shields.io/badge/React JS-212121?style=for-the-badge&logo=react&logoColor=5ed3f3" alt="jquery" title="jquery" height="25" />
+&nbsp;
+  <img src="https://img.shields.io/badge/Angular JS-adb3b3?style=for-the-badge&logo=angularjs&logoColor=bd002e" alt="angular" title="angular" height="25" />
 &nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-533B78?style=for-the-badge&logo=bootstrap&logoColor=white" alt="boot" title="boot" height="25" />
+&nbsp;
+  <img src="https://img.shields.io/badge/jQuery-2965F1?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery" title="jquery" height="25" />
+&nbsp;
+  <img src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=C1282D" alt="java" title="java" height="25" />
+&nbsp;
+  <img src="https://img.shields.io/badge/CSharp-642076?style=for-the-badge&logo=csharp&logoColor=white" alt="c#" title="c#" height="25" />
+&nbsp;
+  <img src="https://img.shields.io/badge/.NET Framework-008cd5?style=for-the-badge&logo=.net&logoColor=white" alt="net" title="net" height="25" />
+&nbsp;
+  <img src="https://img.shields.io/badge/django-092d1f?style=for-the-badge&logo=Django&logoColor=white" alt="django" title="django" height="25" />
+&nbsp;
+  <img src="https://img.shields.io/badge/Ruby-9f100f?style=for-the-badge&logo=Ruby&logoColor=white" alt="jquery" title="jquery" height="25" />
 &nbsp;
   
 <br/>
