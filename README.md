@@ -65,7 +65,7 @@
 &nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-533B78?style=for-the-badge&logo=bootstrap&logoColor=white" alt="boot" title="boot" height="25" />
                                                                                                                                                  &nbsp;
-  <img src="https://img.shields.io/badge/React JS-61dafb?style=for-the-badge&logo=react&logoColor=black" alt="boot" title="boot" height="25" />
+  <img src="https://img.shields.io/badge/React JS-black?style=for-the-badge&logo=react&logoColor=7adbf7" alt="boot" title="boot" height="25" />
 <br/>
 <h2>💻  My Setup<h2/>
   <img src="https://img.shields.io/badge/Intel-Core_i7_6th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="intel" title="intel" height="25" />
