@@ -55,8 +55,6 @@
 &nbsp;                                                                                                                                  
   <img src="https://img.shields.io/badge/jQuery-2965F1?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery" title="jquery" height="25" />
   </br>                                                                                                                                   
-  <img src="https://img.shields.io/badge/Vue JS-272f37?style=for-the-badge&logo=vue.js&logoColor=4bb483" alt="vue" title="vue" height="25" />
-&nbsp;
   <img src="https://img.shields.io/badge/Swift UI-000000?style=for-the-badge&logo=Swift&logoColor=001690" alt="jquery" title="jquery" height="25" />
 &nbsp;                                                                                                                                        
   <img src="https://img.shields.io/badge/.NET Framework-008cd5?style=for-the-badge&logo=.net&logoColor=white" alt="net" title="net" height="25" />
