@@ -2,7 +2,6 @@
 <h2 align='center'>
   I'm <a href="https://github.com/JxVtrl">João</a>.
 </h2>
-<img src="https://img.shields.io/github/watchers/JxVtrl/JxVtrl?label=Visitors&logo=github&style=flat-square" alt="Visitantes" title="Visitantes"/>
 <h3>
   I'm currently...
 </h3>
