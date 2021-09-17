@@ -31,8 +31,6 @@
 &nbsp;
   <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" alt="lua" title="lua" height="25" />
   </br>
-  <img src="https://img.shields.io/badge/Node JS-8cbf3d?style=for-the-badge&logo=node.js&logoColor=303030" alt="node" title="node" height="25" />
-&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JS" height:"25" />
 &nbsp;
   <img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5" height="25" />
@@ -43,6 +41,8 @@
 <br/>
 <h2>🧠 Next steps of knowledge<h2/>
   <img src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=C1282D" alt="java" title="java" height="25" />
+   &nbsp;                                                                                                                                   
+  <img src="https://img.shields.io/badge/Node JS-8cbf3d?style=for-the-badge&logo=node.js&logoColor=303030" alt="node" title="node" height="25" />
 &nbsp;
   <img src="https://img.shields.io/badge/php-7377AD?style=for-the-badge&logo=php&logoColor=white" alt="boot" title="boot" height="25" />
 &nbsp;
