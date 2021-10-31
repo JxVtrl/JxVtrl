@@ -6,11 +6,11 @@
   I'm currently...
 </h3>
 <p>
-  🏠 living at Rio de Janeiro City, Brazil. <br/>
-  👨‍💻 learning to become a Full-stack Developer.<br/>
-  🔭 working on my evolution in the area.<br/>
-  🎓 a student of the University of State of Rio de Janeiro.<br/>
-  🌱 fluent in English and Portuguese.<br/>
+  🏠 Living at Rio de Janeiro City, Brazil. <br/>
+  👨‍💻 Learning to become a Full-stack Developer.<br/>
+  🔭 Working on my evolution in the area.<br/>
+  🎓 A student of the University of State of Rio de Janeiro.<br/>
+  🌱 Fluent in English and Portuguese.<br/>
   ⚡ Be Awesome!<br/>
 </p>
 <br/>
