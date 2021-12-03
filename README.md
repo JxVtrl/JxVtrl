@@ -22,24 +22,24 @@
 &nbsp;
   <img src="https://img.shields.io/badge/git-282C34?style=for-the-badge&logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
 &nbsp;
+                                                                                                                                         
+ <img src="https://img.shields.io/badge/React JS-black?style=for-the-badge&logo=react&logoColor=7adbf7" alt="react" title="react" height="25" /> 
+   &nbsp;
+  <img src="https://img.shields.io/badge/Node JS-8cbf3d?style=for-the-badge&logo=node.js&logoColor=303030" alt="node" title="node" height="25" />                                &nbsp;
   <img src="https://img.shields.io/badge/Python-C1282D?style=for-the-badge&logo=python&logoColor=white" alt="python" title="python" height="25" />
-&nbsp;
-  <img src="https://img.shields.io/badge/C-035697?style=for-the-badge&logo=c&logoColor=white" alt="c logo" title="c" height="25" />                                              
-&nbsp;
-  <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" alt="lua" title="lua" height="25" />
   </br>
-  <img src="https://img.shields.io/badge/Node JS-8cbf3d?style=for-the-badge&logo=node.js&logoColor=303030" alt="node" title="node" height="25" />
-&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JS" height:"25" />
 &nbsp;
   <img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5" height="25" />
 &nbsp;
   <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" />
-&nbsp;  
-<br/>
-<h2>🧠 What i'm improving<h2/>   
-  <img src="https://img.shields.io/badge/React JS-black?style=for-the-badge&logo=react&logoColor=7adbf7" alt="react" title="react" height="25" />                             
 &nbsp;
+  <img src="https://img.shields.io/badge/C-035697?style=for-the-badge&logo=c&logoColor=white" alt="c logo" title="c" height="25" />                      
+&nbsp;
+  <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" alt="lua" title="lua" height="25" />
+<br/>
+                                                                                                                                   
+<h2>🧠 What i'm improving<h2/>   
   <img src="https://img.shields.io/badge/php-7377AD?style=for-the-badge&logo=php&logoColor=white" alt="php" title="php" height="25" />
 &nbsp;
   <img src="https://img.shields.io/badge/C++-005697?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplus" title="cplus" height="25" />
