@@ -14,60 +14,56 @@
   ⚡ Be Awesome!<br/>
 </p>
 <br/>
+<div align='center'>
 <p align='center'>
-  💼 For enquiries, reach out my DM on <a href="https://www.linkedin.com/in/joão-vinicius-vitral-9b25221b7/">LinkedIn</a> or send me an <a href="mailto:joaoviniciusvitral@hotmail.com">email<a/>.
+💼 For enquiries, reach out my DM on <a href="https://www.linkedin.com/in/joão-vinicius-vitral-9b25221b7/">LinkedIn</a> or send me an <a href="mailto:joaoviniciusvitral@hotmail.com">email<a/>.
 </p>
-<h2>🛠  What i'm on<h2/>
-  <img src="https://img.shields.io/badge/vs code-282C34?style=for-the-badge&logo=visualstudiocode&logoColor=0181C9"" alt="Visual Studio Code" title="Visual Studio Code" height="25" />
-&nbsp;
-  <img src="https://img.shields.io/badge/git-282C34?style=for-the-badge&logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
-&nbsp;                                                                                                                                      
- <img src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" title="react" height="25" /> 
-&nbsp;
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react native" title="react" height="25" /> 
-&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node" title="node" height="25" />                   &nbsp;
-  <img src="https://img.shields.io/badge/Python-C1282D?style=for-the-badge&logo=python&logoColor=white" alt="python" title="python" height="25" />
-  </br>     
-  <img src="https://img.shields.io/badge/TypeScript-000080?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript" height="25" />
-&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" title="JS" height:"25" />
-&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5" height="25" />
-&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" />
-&nbsp;
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SAAS logo" title="SAAS" height="25" />
-&nbsp;
-                                                                                                                                            
-  <img src="https://img.shields.io/badge/C-035697?style=for-the-badge&logo=c&logoColor=white" alt="c logo" title="c" height="25" />    
- &nbsp;
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplus logo" title="cplus" height="25" />    
- &nbsp;
+</div>
+
+<h2>🧠 What i'm on<h2/>
+<div style="display: flex;">
+<img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<img alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+<img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+<img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
   
+<br/>
+  
+<h2>🛠 Tools<h2/>
+ <div style="display: flex;">
+  <img alt="VSCODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Bots" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img alt="SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+</div> 
   
 <br/>
                                                                                                                                    
-<h2>🧠 What i'm improving<h2/>   
-  <img src="https://img.shields.io/badge/php-7377AD?style=for-the-badge&logo=php&logoColor=white" alt="php" title="php" height="25" />
-&nbsp;
-  <img src="https://img.shields.io/badge/C++-005697?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplus" title="cplus" height="25" />
-&nbsp;                                                                                                                                                
-  <img src="https://img.shields.io/badge/jQuery-2965F1?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery" title="jquery" height="25" />
-  </br>                                                                                                                                   
-  <img src="https://img.shields.io/badge/Swift UI-000000?style=for-the-badge&logo=Swift&logoColor=001690" alt="swift" title="swift" height="25" />
-&nbsp;                                                                                                                                        
-  <img src="https://img.shields.io/badge/django-092d1f?style=for-the-badge&logo=Django&logoColor=white" alt="django" title="django" height="25" />
-&nbsp;
-  <img src="https://img.shields.io/badge/Bootstrap-533B78?style=for-the-badge&logo=bootstrap&logoColor=white" alt="boot" title="boot" height="25" />
+<h2>📈 Future improvements<h2/>
+<div style="display: flex;">
+  <img alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img alt="JQUERY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">                        
+  <img alt="SWIFT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">                                       
+  <img alt="DJANGO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">                                       <img alt="FLUTTER" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">      
+ </div> 
+   
 <br/>
+  
 <h2>💻  My Setup<h2/>
   <img src="https://img.shields.io/badge/Intel-Core_i7_6th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="intel" title="intel" height="25" />
 &nbsp;
   <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="intel" title="intel" height="25" />
 <br/>
+  
 <h2>📈  My stats</h2>
-<p style="margin: 0px auto; width:auto; text-align: center;">
-  <img style="display: inline;" height="165" src="http://github-readme-streak-stats.herokuapp.com?user=JxVtrl&theme=tokyonight&hide_border=true" alt="githubstats" title="GithubStats"/>
+<div align='center' >
+    <img style="display: inline;" height="165" src="http://github-readme-streak-stats.herokuapp.com?user=JxVtrl&theme=tokyonight&hide_border=true" alt="githubstats" title="GithubStats"/>
   <img style="display: inline;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JxVtrl&layout=compact&theme=tokyonight&hide_border=true" alt="githubstats1" title="GithubStats1"/>
-</p>
+  </div>
+
