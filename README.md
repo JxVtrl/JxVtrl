@@ -53,10 +53,6 @@
   <img alt="SWIFT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">                         
   <img alt="DJANGO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">                         <img alt="FLUTTER" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">      
   
-  
-  
-  
-  
   <br/>
   
 <h2>💻  My Setup<h2/>
@@ -65,7 +61,7 @@
   <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="intel" title="intel" height="25" />
 <br/>
   
-<h2>📈  My stats</h2>
+<h2>🚴‍♂‍  My stats</h2>
 <div align='center' >
     <img style="display: inline;" height="165" src="http://github-readme-streak-stats.herokuapp.com?user=JxVtrl&theme=tokyonight&hide_border=true" alt="githubstats" title="GithubStats"/>
   <img style="display: inline;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JxVtrl&layout=compact&theme=tokyonight&hide_border=true" alt="githubstats1" title="GithubStats1"/>
