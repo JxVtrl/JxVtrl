@@ -70,15 +70,15 @@
   <img alt="Raspberry pie" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">&nbsp;
   
 <h2>💻  My Setup<h2/>
-	<div align='left' >
-		<img src="https://img.shields.io/badge/Intel-Core_i7_6th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="intel" title="intel" height="25" />
+<div align='left'>
+	<img src="https://img.shields.io/badge/Intel-Core_i7_6th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="intel" title="intel" height="25" />
 	&nbsp;
-		<img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="intel" title="intel" height="25" />
+	<img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="intel" title="intel" height="25" />
 </div>
-		<br/>
+
   
 <h2>🚴‍♂‍  My stats</h2>
-<div align='center' >
+<div align='center'>
 	<img style="display: inline;" height="165" src="http://github-readme-streak-stats.herokuapp.com?user=JxVtrl&theme=tokyonight&hide_border=true" alt="githubstats" title="GithubStats"/>
 	<img style="display: inline;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JxVtrl&layout=compact&theme=tokyonight&hide_border=true" alt="githubstats1" title="GithubStats1"/>
 </div>
