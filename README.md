@@ -27,9 +27,11 @@
   <img alt="Jest" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />&nbsp;
   <img alt="Redux" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />&nbsp;
   <img alt="Node" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">&nbsp;
+  <img alt="ANGULAR" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">&nbsp;
   <img alt="React" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">&nbsp;
   <img alt="NEXT" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">&nbsp;
   <img alt="NEST" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">&nbsp;
+
   <br/>
   <br/>
   <img alt="Npm" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">&nbsp;
@@ -62,7 +64,6 @@
 <h2>📈 Future improvements<h2/>
   <img alt="VUE" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg">&nbsp;
   <img alt="NUXT" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">&nbsp;
-  <img alt="ANGULAR" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">&nbsp;
   <img alt="PHP" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">&nbsp;
   <img alt="JQUERY" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg">&nbsp; 
   <img alt="SWIFT" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">&nbsp;            
