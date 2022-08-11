@@ -19,46 +19,43 @@
 </p>
 
 <h2>🧠 What i'm on<h2/>
-  <img alt="C" height="35"width="35"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">&nbsp;
-	<img alt="Python" height="35"width="35"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">&nbsp;
-	<img alt="LUA" height="35"width="35"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain-wordmark.svg">&nbsp;
+  <img alt="Node" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">&nbsp;
   <img alt="Js" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">&nbsp;
   <img alt="Ts" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">&nbsp;
-  <img alt="Jest" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />&nbsp;
-  <img alt="Redux" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />&nbsp;
-  <img alt="Node" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">&nbsp;
   <img alt="ANGULAR" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">&nbsp;
   <img alt="React" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">&nbsp;
   <img alt="NEXT" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">&nbsp;
+  <img alt="Jest" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />&nbsp;
   <img alt="NEST" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">&nbsp;
-
+  <img alt="Redux" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />&nbsp;
   <br/>
   <br/>
-  <img alt="Npm" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">&nbsp;
-  <img alt="Docker" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">&nbsp;
-  <img alt="Nginx" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg">&nbsp;
-  <img alt="Firebase" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">&nbsp;
-  <img alt="MySql" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">&nbsp;
-  <img alt="GraphQl" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg">&nbsp;
+  <img alt="HTML" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">&nbsp;
+  <img alt="CSS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">&nbsp;
+  <img alt="SASS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">&nbsp;
+  <img alt="Bots" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">&nbsp;
+  <img alt="Tailwind" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">&nbsp;
+  <img alt="C" height="35"width="35"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">&nbsp;
+  <img alt="LUA" height="35"width="35"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain-wordmark.svg">&nbsp;
+  <img alt="Python" height="35"width="35"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">&nbsp;
   <img alt="MongoDB" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">&nbsp;
-  <img alt="AWS" height="35" width="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">&nbsp;
+
+
+
   
 <h2>🛠 Tools<h2/>
   <img alt="VSCODE" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">&nbsp;
-  <img alt="Atom" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg">&nbsp;
   <img alt="Pycharm" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">&nbsp;
   <img alt="Github" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">&nbsp;
   <img alt="Azure" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">&nbsp;
   <img alt="GIT" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">&nbsp;
   <br/>
   <br/>
-  <img alt="Photoshop" height="35" width="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">&nbsp;
-  <img alt="Figma" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">&nbsp;
-  <img alt="HTML" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">&nbsp;
-  <img alt="CSS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">&nbsp;
-  <img alt="Bots" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">&nbsp;
-  <img alt="Tailwind" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">&nbsp;
-  <img alt="SASS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">&nbsp;
+  <img alt="Npm" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">&nbsp;
+  <img alt="Docker" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">&nbsp;
+  <img alt="Firebase" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">&nbsp;
+  <img alt="MySql" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">&nbsp;
+  <img alt="GraphQl" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg">&nbsp;
 
                                                                                                                                    
 <h2>📈 Future improvements<h2/>
@@ -69,6 +66,7 @@
   <img alt="SWIFT" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">&nbsp;            
   <img alt="FLUTTER" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">&nbsp;      
   <img alt="Raspberry pie" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">&nbsp;
+  <img alt="AWS" height="35" width="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">&nbsp;
   
 <h2>💻  My Setup<h2/>
 <div align='left'>
