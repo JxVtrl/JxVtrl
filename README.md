@@ -56,18 +56,6 @@
   <img alt="Firebase" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">&nbsp;
   <img alt="MySql" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">&nbsp;
   <img alt="GraphQl" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg">&nbsp;
-
-                                                                                                                                   
-<h2>📈 Future improvements<h2/>
-  <img alt="VUE" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg">&nbsp;
-  <img alt="NUXT" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">&nbsp;
-  <img alt="PHP" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">&nbsp;
-  <img alt="JQUERY" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg">&nbsp; 
-  <img alt="SWIFT" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">&nbsp;            
-  <img alt="FLUTTER" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">&nbsp;      
-  <img alt="Raspberry pie" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">&nbsp;
-  <img alt="AWS" height="35" width="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">&nbsp;
-
   
 <h2>🚴‍♂‍  My stats</h2>
 <div align='center'>
