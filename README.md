@@ -42,21 +42,12 @@
 
 
 
-  
 <h2>🛠 Tools<h2/>
-  <img alt="VSCODE" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">&nbsp;
-  <img alt="Pycharm" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">&nbsp;
-  <img alt="Github" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">&nbsp;
   <img alt="Azure" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">&nbsp;
   <img alt="GIT" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">&nbsp;
-  <br/>
-  <br/>
-  <img alt="Npm" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">&nbsp;
   <img alt="Docker" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">&nbsp;
   <img alt="Firebase" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">&nbsp;
-  <img alt="MySql" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">&nbsp;
-  <img alt="GraphQl" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg">&nbsp;
-  
+ 
 <h2>🚴‍♂‍  My stats</h2>
 <div align='center'>
 	<img style="display: inline;" height="165" src="http://github-readme-streak-stats.herokuapp.com?user=JxVtrl&theme=tokyonight&hide_border=true" alt="githubstats" title="GithubStats"/>
