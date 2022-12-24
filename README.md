@@ -67,13 +67,6 @@
   <img alt="FLUTTER" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">&nbsp;      
   <img alt="Raspberry pie" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">&nbsp;
   <img alt="AWS" height="35" width="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">&nbsp;
-  
-<h2>💻  My Setup<h2/>
-<div align='left'>
-	<img src="https://img.shields.io/badge/Intel-Core_i7_6th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="intel" title="intel" height="25" />
-	&nbsp;
-	<img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="intel" title="intel" height="25" />
-</div>
 
   
 <h2>🚴‍♂‍  My stats</h2>
