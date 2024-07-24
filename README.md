@@ -8,7 +8,7 @@
 <p>
   🏠 Living at Rio de Janeiro City, Brazil. <br/>
   👨‍💻 Learning to become a Full-stack Developer.<br/>
-  🔭 Working at <a href="https://www.linkedin.com/company/igma-digital-product/">IGMA.do</a> as Front-end Developer<br/>
+  🔭 Front-end Developer<br/>
   🎓 A student of the University of State of Rio de Janeiro.<br/>
   🌱 Fluent in English and Portuguese.<br/>
   ⚡ Be Awesome!<br/>
