@@ -7,8 +7,7 @@
 </h3>
 <p>
   🏠 Living at Rio de Janeiro City, Brazil. <br/>
-  👨‍💻 Learning to become a Full-stack Developer.<br/>
-  🔭 Front-end Developer<br/>
+  🔭 Full-stack Developer<br/>
   🎓 A student of the University of State of Rio de Janeiro.<br/>
   🌱 Fluent in English and Portuguese.<br/>
   ⚡ Be Awesome!<br/>
